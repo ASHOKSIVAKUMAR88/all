@@ -1,0 +1,31 @@
+Hey, you can do as follows:
+~~~~~~~~~~~~~~~~~~~~~~~
+Requirements:
+
+* PC
+* CWM/TWRP Backup
+* CWM/TWRP Installed
+* Winrar/7Zip
+* Brain
+
+Now the real-deal..
+
+1. Copy the backup from Phone to PC
+
+2. Extract system.ext4.tar file with winrar/7zip, you
+will get the system folder
+
+3. Collect the boot.img from the backup
+
+4. Now collect a META-INF folder from any custom
+rom/small update zip which is made for HTC Desire 526G+
+
+5. Now select META-INF,system & boot.img, click
+right button of your mouse and select 'Add to archive'
+now select archive format 'ZIP' and press ok
+
+6. Your flasable zip rom is ready. Just copy it
+to your sd card and flash with CWM or TWRP
+
+7. Done!! This will flash the stock Taiwan System to your device.
+
